@@ -34,7 +34,12 @@ Learning Technologies like: <br>
 
 
 Learning Programming Languages like: <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) 
+
+[MyBlog](https://alexhz01.github.io/my_launchx_blog/)
+
+
+[![AlexHz01's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexHz01&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=black) -->
 <!---
