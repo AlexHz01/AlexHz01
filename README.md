@@ -16,8 +16,8 @@
   
   I'm new to programming, wanting to learn from the github community
 
-- 👀 I’m interested in programming in python
-- 🌱 I’m currently learning java
+- 👀 I’m interested in programming in NodeJs
+- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on Microsoft
 
 Used OS: <br>
@@ -36,7 +36,7 @@ Learning Technologies like: <br>
 Learning Programming Languages like: <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) 
 
-[MyBlog](https://alexhz01.github.io/my_launchx_blog/)
+[My Blog](https://alexhz01.github.io/my_launchx_blog/)
 
 
 [![AlexHz01's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexHz01&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
