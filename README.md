@@ -39,8 +39,6 @@ Learning Programming Languages like: <br>
 [My Blog](https://alexhz01.github.io/my_launchx_blog/)
 
 
-[![AlexHz01's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexHz01&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=black) -->
 <!---
 AlexHz01/AlexHz01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
