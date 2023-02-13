@@ -41,8 +41,6 @@ Technologies like: <br>
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-Programming Languages like: <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) 
 
 [My Blog](https://alexhz01.github.io/my_launchx_blog/)
 
