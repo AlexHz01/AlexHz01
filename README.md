@@ -1,5 +1,8 @@
 <div align="center">
   <h1> Hello <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Magno+Efren.!)]
+
+![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
    👋  I'm Enrique Alejandro 👋 </h1>
   
 </div>
